@@ -1,19 +1,19 @@
 # ========== Profile ========== #
 # avatar
-avatar: /avatar/Misaka.jpg
+avatar: /avatar/099.png
 # author name
-author: fi3ework
+author: Chaos
 # signature
-signature: witness me
+signature: F!U!C!K! whatever
 # SNS (you can custom the order)
 social:
-  email: 12345@qq.com
-  github: //github.com/fi3ework
+  email: 1325261979@qq.com
+  github: //github.com/ChaosTong
   # wechat and qq should be a path of qr-code image
   wechat: /assets/example_qr.png
   qq: 
   telegram: 
-  weibo: 
+  weibo: //weibo.com/chao1993
   zhihu: 
   douban: 
   facebook: 
@@ -30,8 +30,8 @@ social:
   rss: 
 # friends
 friends:
-  friendA: //www.baidu.com
-  friendB: //www.google.com
+  Github: //www.github.com
+  Google: //www.google.com
   friendC: 
 about:
   enable: true
@@ -39,16 +39,19 @@ about:
 
 # ========== Site ========== #
 # title of the site (good for SEO)
-SEO_title: fi3ework's Studio
+SEO_title: Chaos's Field
 # keywords for site (good for SEO)
 SEO_keywords:
-  - hexo
-  - 'hexo-theme'
-  - 'hexo-blog'
+  - 'chaostong'
+  - 'easyulife'
+  - 'ios'
+  - 'mac'
+  - 'apple'
+  - 'nas'
 # main title shown in header image
-main_title: fi3ework's Studio.
+main_title: Chaos's Field.
 # subtitle
-subtitle: it's better to burn out than to fade away
+subtitle: 火车驶向云外 梦安魂于九霄
 # site haeder image
 site_header_image: '/intro/index-bg.jpg'
 # post haeder image
@@ -92,7 +95,7 @@ busuanzi: true
 # fill in pv or uv
 busuanzi_pv_or_uv: 'pv'
 # custom analytic slogan, '${count}' is the analytic number, DO NOT modify it.
-busuanzi_slug: 'PV: ${count} :)'
+busuanzi_slug: '赣ICP备17008210号-1 PV: ${count}'
 # Baidu analytics
 baidu_analytics: 
 # Google analytics
